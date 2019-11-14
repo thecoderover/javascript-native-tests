@@ -2,7 +2,7 @@
 
 A simple set of tests that calculates the n-th prime to provide a comparison between JavaScript, pure native code (Rust) and native functions called from within JavaScript (N-API & WebAssembly).
 
-* This is the accompying code to thecoderover post: [JavaScipt performance with native code](https://www.thecoderover.com/2019/11/javascript-performance-with-native-code/) *
+*This is the accompying code to thecoderover post: [JavaScipt performance with native code](https://www.thecoderover.com/2019/11/javascript-performance-with-native-code/)*
 
 ## Download
 
