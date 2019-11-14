@@ -1,0 +1,13 @@
+{
+  "name": "jsprimes",
+  "version": "0.1.0",
+  "author": "thecoderover",
+  "license": "MIT",
+  "description": "Performence test for JavaScript",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node-gyp configure build && node node app.js"
+  },
+  "dependencies": {}
+}

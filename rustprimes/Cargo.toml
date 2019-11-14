@@ -1,0 +1,3 @@
+[package]
+name = "rust-primes"
+version = "0.1.0"
